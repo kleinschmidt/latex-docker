@@ -5,6 +5,8 @@ build my CV, so here it is.  Built on
 [`base/archlinux`](https://hub.docker.com/r/base/archlinux/), with texlive,
 biber, and make.
 
+Inspired by [`blang/latex-docker`](https://github.com/blang/latex-docker).
+
 ## Installation
 
 From [docker hub](https://hub.docker.com/r/davekleinschmidt/latex/):
